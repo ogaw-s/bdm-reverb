@@ -1,4 +1,4 @@
-26732521876375326
+26739589199839983
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73429,6 +73429,27 @@ threaded screw
 0
 4
 1
+MyLibrary
+100u50V
+
+
+0
+0
+0
+MyLibrary
+TL072
+
+TL072CP 
+0
+8
+8
+MyLibrary
+V4220M
+TSSOP, 28 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/lt3762.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+35
+29
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -99362,8 +99383,8 @@ Teensy40
 
 
 0
-44
-44
+28
+28
 Teensy
 Teensy40_SMT
 
@@ -106354,6 +106375,13 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+simplejackwithpinheader
+simplejackwithpinheader
+
+
 0
 2
 2
